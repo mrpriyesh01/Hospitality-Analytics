@@ -12,7 +12,6 @@ The dashboard helps management understand **occupancy trends, revenue performanc
 ## 🛠️ Tech Stack
 
 📊 **Power BI** — Dashboard and data visualization  
-📂 **Power Query** — Data transformation and MySQL connection  
 🧠 **DAX** — KPI and business metric calculations  
 🗄️ **MySQL & SQL** — Data storage, cleaning, validation, and analysis  
 📁 **CSV** — Source datasets
@@ -85,7 +84,7 @@ Hotels generated approximately **₹2.01B**, of which **₹1.71B was realized**,
 
 - Loaded and validated hospitality data in **MySQL**
 - Used **SQL** for cleaning, duplicate checking, and analysis
-- Connected MySQL with **Power BI using Power Query**
+- Connected MySQL 
 - Analyzed key hospitality KPIs
 - Identified business trends and performance gaps
 - Converted analysis into actionable business recommendations
